@@ -9,7 +9,7 @@ def main(numbers):
     Returns:
         list: return answer.
     """
-    numbers=[1,2,3,4,5]
+    numbers=[0,1,2,3,4,5]
     return numbers[::2]
 
 print(main(numbers))
